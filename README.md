@@ -1,7 +1,7 @@
 # vottun_sdk
 
 SDK para Linux
-Funciones: <ayuda> <deploy_erc20> <total_supply> <symbol> <name> <increase_allowance> <allowance> <transfer_from>"
+Funciones: <ayuda> <deploy_erc20> <total_supply> <symbol> <name> <increase_allowance> <allowance> <transfer_from>
 
 Cargar la configuración: source vottun_sdk.sh
 
