@@ -1,11 +1,11 @@
-# vottun_sdk
-
-SDK para Linux
-Funciones: <ayuda> <deploy_erc20> <total_supply> <symbol> <name> <increase_allowance> <allowance> <transfer_from>
+# SDK para Linux
+# Funciones:
+# "ayuda" "deploy_erc20" "total_supply" "symbol" "name"
+# "increase_allowance" "allowance" "transfer_from"
 
 Cargar la configuración: source vottun_sdk.sh
 
-La funcion <ayuda> muestra las funciones que realizar el SDK y ejemplos de uso.
+La funcion "ayuda" muestra las funciones que realizar el SDK y ejemplos de uso.
 Tanto la API como el APP_ID estan incrustados en el codigo.
 
 Debido a la extension de la API, me fue imposible pegarla en el prompt.
